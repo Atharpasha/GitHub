@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-13T12:48:25 IST" name="Default suite" finished-at="2023-11-13T12:48:25 IST" duration-ms="58">
+    <groups>
+    </groups>
+    <test started-at="2023-11-13T12:48:25 IST" name="Default test" finished-at="2023-11-13T12:48:25 IST" duration-ms="58">
+      <class name="Testscripts.JavaPr">
+        <test-method signature="list()[pri:0, instance:Testscripts.JavaPr@6ae5aa72]" started-at="2023-11-13T12:48:25 IST" name="list" finished-at="2023-11-13T12:48:25 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- list -->
+      </class> <!-- Testscripts.JavaPr -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
